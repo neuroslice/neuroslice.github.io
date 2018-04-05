@@ -8,7 +8,8 @@
 # Site settings
 title: Gavin Sonne
 email: gavin.j.sonne@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: Software Engineer
+#> # this means to ignore newlines until "baseurl:"
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://neuroslice.github.io/" # the base hostname & protocol for your site
@@ -24,10 +25,10 @@ instagram_username: slicehawk
 linkedin_url: https://www.linkedin.com/in/gsonne/
 
 # Address information
-#address_street: --
+#address_street:
 address_city: Salinas
 address_state: CA
-address_zip: 93901
+#address_zip: 93901
 
 # Build settings
 markdown: kramdown
