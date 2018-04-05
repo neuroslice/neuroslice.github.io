@@ -151,7 +151,7 @@ h4{
 }
 
 /* Extra small devices (phones, less than 768px) */
-@media (max-width: 991px) {
+@media (max-width: 1081px) {
   .timeline {
     margin-left: 0;
     padding-right: 0;
