@@ -82,14 +82,6 @@ h4{
   top: 0;
 }
 
-@media screen and (max-width: 1080px) {
-/* applies only if the screen is narrower than 500px */
-  .timeline .job-meta{
-    position: static
-    left: 0px;
-  }
-  
-}
 .timeline .job-meta .title {
   font-size: 18px;
   color: #00BCD4;
@@ -102,42 +94,42 @@ h4{
 }
 
 
-.education-section {
+.education {
   background:#18BC9C;
   color:#fff;
 
 }
-.education-section .item {
+.education .item {
   margin-bottom: 45px;
 }
-.education-section .item-inner {
+.education .item-inner {
   padding: 0 30px;
 }
-.education-section .degree {
+.education .degree {
   font-size: 18px;
   color: #fff;
   margin-top: 0;
   margin-bottom: 0px;
 }
-.education-section .education-body {
+.education .education-body {
   font-weight: 700;
   margin-bottom: 0px;
   font-size: 17px;
   /*font-weight: 300;*/
 }
-.education-section .time {
+.education .time {
   color: lemonchiffon;
   font-size: 16px;
 }
-.education-section .desc {
+.education .desc {
   color: #fff;
 }
 
-.skills-section {
+.skills {
   background:#fff;
 }
 
-.skills-section .skill-tag {
+.skills .skill-tag {
   -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14);
   -moz-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14);
   box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14);
@@ -166,7 +158,39 @@ h4{
     position: static;
     margin-bottom: 15px;
   }
-  .education-section .item {
+  .education .item {
     padding: 0;
   }
+}
+
+.contact .intro {
+  position: relative;
+  padding: 30px;
+  padding-left: 190px;
+  font-size: 16px;
+  color: #666;
+}
+.contact .intro .profile-image {
+  width: 120px;
+  height: 120px;
+  position: absolute;
+  left: 30px;
+}
+.contact .intro p {
+  margin-bottom: 15px;
+}
+.contact .service-list {
+  margin-left: 30px;
+  margin-bottom: 15px;
+}
+.contact .service-list li {
+  margin-bottom: 15px;
+}
+.contac .service-list .fa {
+  color: #00BCD4;
+}
+.center-div
+{
+     margin: 0 auto;
+     width: 100px; 
 }
