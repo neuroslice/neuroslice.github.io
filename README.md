@@ -1,17 +1,16 @@
-## [Gavin Sonne](https://gsonne.github.io)
+# [Gavin Sonne](https://neuroslice.github.io)
 
-# Template adapted From
-# [Start Bootstrap](http://startbootstrap.com/) - [Freelancer Jekyll Version](http://startbootstrap.com/template-overviews/freelancer/)
+## Template Adapted From
+//
+### [Start Bootstrap](http://startbootstrap.com/) - [Freelancer Jekyll Version](http://startbootstrap.com/template-overviews/freelancer/)
 
 [Freelancer Jekyll Version](http://startbootstrap.com/template-overviews/1-col-portfolio/) is a Jekyll build for the Freelancer portfolio theme based on [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
-
-
 
 ## Creator
 
 This website was created and is maintained by **[Gavin Sonne](https://neuroslice.github.io)**.
 
-# Attribution of Template and Framework
+## Attribution of Template and Framework
 Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
 * https://twitter.com/davidmillerskt

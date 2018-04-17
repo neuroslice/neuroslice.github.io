@@ -8,7 +8,7 @@
 # Site settings
 title: Gavin Sonne
 email: gavin.j.sonne@gmail.com
-description: Software Engineer
+description: Front End Developer
 #> # this means to ignore newlines until "baseurl:"
   
 baseurl: "" # the subpath of your site, e.g. /blog
