@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "MLML Public Data Portal"
+date:   2018-09-10 15:08:10 -0500
+img: img/portfolio/mlml_pubdata.png
+modalID: modalPubdata
+category: Website Revamp for Work
+---
+
+I modernized and revamped a very old looking website that serves the purpose of providing live and historical data to the public. It provides current and historical oceanographic, meteorological, and seawater data, and much of its content is updated daily via sensor readings. I redesigned the UX/UI, added a responsive navbar, and replaced all table logic with responsive divs. The site has three CSS themes available.
+
+Tools used: HTML & CSS, Bootstrap 4
+
+Dev:   
+Gavin Sonne  
+Maintained by:	
+Jason Adelaars
+
+[View MLML Public Data Portal](http://pubdata.mlml.calstate.edu/)
