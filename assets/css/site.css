@@ -5,10 +5,6 @@ h4{
   text-transform: capitalize;
 }
 
-a:link {
-	color: lightskyblue;
-}
-
 .timeline {
   border-left: 3px solid #00BCD4;
   border-bottom-right-radius: 2px;
