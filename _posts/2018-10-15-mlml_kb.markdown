@@ -9,7 +9,7 @@ category: Knowledge Base Website
 
 Took the task of migrating the Moss Landing Marine Laboratories IT Knowledge Base from concept to completion. Researched platforms and managed the project in its entirety from start to completion.
 
-Tools used: phpBB, Google Docs migratijon to BookStack
+Tools used: phpBB and Google Docs -> BookStack
 
 Dev / Project Manager:  
 Gavin Sonne    
