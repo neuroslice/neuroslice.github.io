@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "MLML Knowledge Base"
+date:   2018-10-15 15:08:10 -0500
+img: img/portfolio/mlml_kb.png
+modalID: modalMLML_KB
+category: Knowledge Base Website
+---
+
+Took the task of migrating the Moss Landing Marine Laboratories IT Knowledge Base from concept to completion. Researched platforms and managed the project in its entirety from start to completion.
+
+Tools used: phpBB, Google Docs migratijon to BookStack
+
+Dev / Project Manager:  
+Gavin Sonne    
