@@ -200,7 +200,7 @@ h4{
      margin: 0 auto;
      width: 100px; 
 }
-.col-lg-8 {
+.col-lg-8 .col-lg-offset-2{
 	margin: 0 auto;
 } 
 .modal-body {
