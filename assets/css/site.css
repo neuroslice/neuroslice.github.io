@@ -200,18 +200,18 @@ h4{
      margin: 0 auto;
      width: 100px; 
 }
+.col-lg-8 {
+	margin: 0 auto;
+} 
 .modal-body {
   text-align: center;
   padding: 0!important;
-  align: middle;
-  margin: 0 auto;
 }
 .modal-body:before {
   content: '';
   display: inline-block;
   height: 100%;
   vertical-align: middle;
-  align: middle;
   margin-right: -4px;
 }
 .modal-dialog {
