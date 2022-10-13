@@ -76,6 +76,13 @@ h4{
   font-size: 20px;
   font-weight: 300;
 }
+
+.timeline .sub-place {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  font-size: 15px;
+  font-weight: 200;
+}
 .timeline .job-meta {
   position: absolute;
   left: -280px;
