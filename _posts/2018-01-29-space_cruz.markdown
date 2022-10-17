@@ -17,4 +17,4 @@ Gavin Sonne
 Derek Marx
 
 
-[View Space Cruz](https://neuroslice.github.io/space_cruz/)
+[View on GitHub](https://github.com/neuroslice/space_cruz/)
