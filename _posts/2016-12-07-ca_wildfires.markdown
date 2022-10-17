@@ -17,4 +17,4 @@ Gavin Sonne
 Kaio Barbosa  
 Wookjin Jang
 
-[View on GitHub](https://github.com/neuroslice/California-Wildfires)
+[View California Wildfires](https://neuroslice.github.io/California-Wildfires/)
