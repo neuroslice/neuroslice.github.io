@@ -18,4 +18,4 @@ Alex Morsey
 Serena Chen  
 Franz Breedon
 
-[View on Github](https://github.com/neuroslice/dragoncircle)
+[View on GitHub](https://github.com/neuroslice/dragoncircle)
