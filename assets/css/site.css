@@ -200,24 +200,7 @@ h4{
      margin: 0 auto;
      width: 100px; 
 }
- .row.col-centered > [class*='col-'] { 
-        display: inline-block;
-        float: none;
- }
+
 .modal-body {
   text-align: center;
-  padding: 0!important;
-}
-.modal-body:before {
-  content: '';
-  display: inline-block;
-  height: 100%;
-  vertical-align: middle;
-  margin-right: -4px;
-}
-.modal-dialog {
-  display: inline-block;
-  text-align: left;
-  vertical-align: middle;
-  align: middle;
 }
