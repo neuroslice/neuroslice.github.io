@@ -1,0 +1,206 @@
+---
+---
+
+h4{
+  text-transform: capitalize;
+}
+
+.timeline {
+  border-left: 3px solid #00BCD4;
+  border-bottom-right-radius: 2px;
+  border-top-right-radius: 2px;
+  position: relative;
+  padding: 0 30px;
+  margin-left: 280px;
+}
+.timeline .item {
+  position: relative;
+  margin-bottom: 45px;
+}
+.timeline .item:last-child {
+  margin-bottom: 0;
+}
+.timeline .item:before {
+  content: "";
+  position: absolute;
+  left: -43px;
+  top: 0;
+  display: inline-block;
+  width: 22px;
+  height: 22px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  background: #fff;
+  border: 3px solid #00BCD4;
+}
+.timeline .item:after {
+  content: "";
+  position: absolute;
+  left: -37px;
+  top: 6px;
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  background: #00BCD4;
+  z-index: 10;
+}
+.timeline .work-place {
+  position: relative;
+}
+.timeline .location {
+  position: absolute;
+  right: 0;
+  top: 2px;
+  color: #8a8a8a;
+}
+.timeline .location .fa {
+  margin-right: 5px;
+}
+.timeline .place {
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.timeline .sub-place {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 15px;
+}
+.timeline .job-meta {
+  position: absolute;
+  left: -280px;
+  top: 0;
+}
+
+.timeline .job-meta .title {
+  font-size: 18px;
+  color: #00BCD4;
+}
+.timeline .job-meta .time {
+  color: #8a8a8a;
+}
+.timeline .job-desc {
+  color: #666;
+}
+
+
+.education {
+  background:#18BC9C;
+  color:#fff;
+
+}
+.education .item {
+  margin-bottom: 45px;
+}
+.education .item-inner {
+  padding: 0 30px;
+}
+.education .degree {
+  font-size: 18px;
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0px;
+}
+.education .education-body {
+  font-weight: 700;
+  margin-bottom: 0px;
+  font-size: 17px;
+  /*font-weight: 300;*/
+}
+.education .time {
+  color: lemonchiffon;
+  font-size: 16px;
+}
+.education .desc {
+  color: #fff;
+}
+
+.skills {
+  background:#fff;
+}
+
+.skills .skill-tag {
+  -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14);
+  -moz-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14);
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14);
+  padding: 6px 30px;
+  display: inline-block;
+  margin-right: 10px;
+  border: 1px solid #f5f5f5;
+  font-weight: 500;
+  margin-bottom: 15px;
+  font-size: 16px;
+}
+
+/* Extra small devices (phones, less than 768px) */
+@media (max-width: 1079px) {
+  .timeline {
+    margin-left: 0;
+    padding-right: 0;
+  }
+  .timeline .place {
+    margin-bottom: 5px;
+  }
+  .timeline .location{
+    position: static;
+  }
+  .timeline .job-meta {
+    position: static;
+    margin-bottom: 15px;
+  }
+  .education .item {
+    padding: 0;
+  }
+}
+
+.contact .intro {
+  position: relative;
+  padding: 30px;
+  padding-left: 190px;
+  font-size: 16px;
+  color: #666;
+}
+.contact .intro .profile-image {
+  width: 120px;
+  height: 120px;
+  position: absolute;
+  left: 30px;
+}
+.contact .intro p {
+  margin-bottom: 15px;
+}
+.contact .service-list {
+  margin-left: 30px;
+  margin-bottom: 15px;
+}
+.contact .service-list li {
+  margin-bottom: 15px;
+}
+.contact .service-list .fa {
+  color: #00BCD4;
+}
+.center-div
+{
+     margin: 0 auto;
+     width: 100px; 
+}
+
+.modal-body {
+  text-align: center;
+}
