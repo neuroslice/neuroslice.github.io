@@ -6,7 +6,7 @@ img: img/portfolio/mlml_pubdata.png
 modalID: modalPubdata
 category: Website Revamp for Work
 ---
-[View MLML Public Data Portal](http://pubdata.mlml.calstate.edu/)
+[View MLML Public Data Portal](https://pubdata.mlml.calstate.edu/)
 
 I modernized and revamped a very old looking website that serves the purpose of providing live and historical data to the public. It provides current and historical oceanographic, meteorological, and seawater data, and much of its content is updated daily via sensor readings. I redesigned the UX/UI, added a responsive navbar, and replaced all table logic with responsive divs. The site has three CSS themes available.
 
