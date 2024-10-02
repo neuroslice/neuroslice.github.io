@@ -14,4 +14,4 @@ Tools used: HTML & CSS, Bootstrap 4, Jekyll
 Dev:   
 Gavin Sonne  
 
-[View on Github](https://github.com/neuroslice/neuroslice.github.io)
+[View on Github](//github.com/neuroslice/neuroslice.github.io)

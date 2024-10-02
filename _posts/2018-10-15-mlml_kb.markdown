@@ -6,7 +6,7 @@ img: img/portfolio/mlml_kb.png
 modalID: modalMLML_KB
 category: Knowledge Base Website
 ---
-[View MLML Knowledge Base](https://kb.mlml.sjsu.edu/)
+[View MLML Knowledge Base](//kb.mlml.sjsu.edu/)
 
 Took the task of migrating the Moss Landing Marine Laboratories IT Knowledge Base from concept to completion. Researched platforms and managed the project in its entirety from start to completion.
 

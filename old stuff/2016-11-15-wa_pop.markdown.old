@@ -7,7 +7,7 @@ modalID: modalWashington
 category: Geomapping D3 Visualization
 ---
 
-[View Washington Population Density](https://neuroslice.github.io/WA-Population-Density/)
+[View Washington Population Density](//neuroslice.github.io/WA-Population-Density/)
 
 I created this Geomapped Data Visualization with D3.js for CMPS 165, Data Programming and Visualization. It maps the population density of Washington State by census tract.
 
@@ -16,4 +16,4 @@ Tools Used: HTML & CSS, JavaScript, Topojson, JSON, QGIS
 Dev:  
 Gavin Sonne
 
-[View on GitHub](https://neuroslice.github.io/WA-Population-Density/)
+[View on GitHub](//neuroslice.github.io/WA-Population-Density/)

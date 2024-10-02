@@ -12,17 +12,17 @@ description: Software Developer
 #> # this means to ignore newlines until "baseurl:"
   
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gsonne.io/" # the base hostname & protocol for your site
+url: "//gsonne.io/" # the base hostname & protocol for your site
 
 # Social media profiles - feel free to add more here
 #twitter_username: Slicehawk
 github_username:  neuroslice
 #facebook_username: neuroslice
 instagram_username: slicehawk
-#stackoverflow_url: https://
+#stackoverflow_url: //
 #googleplus_username: BobMarley
 #skype_username: echo123
-linkedin_url: https://www.linkedin.com/in/gsonne/
+linkedin_url: //www.linkedin.com/in/gsonne/
 
 # Address information
 #address_street:

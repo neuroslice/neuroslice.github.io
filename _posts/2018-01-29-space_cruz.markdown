@@ -6,7 +6,7 @@ img: img/portfolio/spacecruz.JPG
 modalID: modalSpace
 category: Text Adventure
 ---
-[Play Space Cruz!](https://neuroslice.github.io/space_cruz/)
+[Play Space Cruz!](//neuroslice.github.io/space_cruz/)
 
 My Partner and I created this dark sci-fi comedy Text Adventure game in the style of Hitchhiker's Guide to the Galaxy for a project in our Foundations of Game Design class. I had a lot of fun with the writing. 
 
@@ -17,4 +17,4 @@ Gavin Sonne
 Derek Marx
 
 
-[View on GitHub](https://github.com/neuroslice/space_cruz/)
+[View on GitHub](//github.com/neuroslice/space_cruz/)
