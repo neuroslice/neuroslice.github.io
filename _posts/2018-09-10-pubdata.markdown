@@ -15,5 +15,4 @@ Tools used: HTML & CSS, Bootstrap 4
 Dev:   
 Gavin Sonne  
 Maintained by:	
-Jason Adelaars
-
+Steve Cunningham
