@@ -20,9 +20,9 @@ Start Bootstrap is based on the [Bootstrap](//getbootstrap.com/) framework creat
 
 ## Copyright and License
 
-Copyright 2022 Gavin Sonne. Code released under the [MIT](//github.com/neuroslice/neuroslice.github.io/LICENSE) license.
+Copyright 2024 Gavin Sonne. Code released under the [MIT](//github.com/neuroslice/neuroslice.github.io/LICENSE) license.
 
 
 Adapted from the Freelancer theme by Blackrock Digital LLC. Attribution below.
 
-Copyright 2013-2022 Blackrock Digital LLC. Code released under the [MIT](//github.com/BlackrockDigital/startbootstrap-freelancer-jekyll/blob/gh-pages/LICENSE) license.
+Copyright 2013-2024 Blackrock Digital LLC. Code released under the [MIT](//github.com/BlackrockDigital/startbootstrap-freelancer-jekyll/blob/gh-pages/LICENSE) license.
